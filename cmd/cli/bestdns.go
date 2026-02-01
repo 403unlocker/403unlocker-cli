@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"403unlocker-cli/internal/dns"
+	"github.com/403unlocker/403Unlocker-cli/internal/dns"
 	"fmt"
 
 	"github.com/spf13/cobra"

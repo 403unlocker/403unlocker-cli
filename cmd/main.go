@@ -1,7 +1,7 @@
 package main
 
 import (
-	"403unlocker-cli/cmd/cli"
+	"github.com/403unlocker/403Unlocker-cli/cmd/cli"
 )
 
 func main() {

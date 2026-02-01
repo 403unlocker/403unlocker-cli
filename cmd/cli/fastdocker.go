@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"403unlocker-cli/internal/docker"
+	"github.com/403unlocker/403Unlocker-cli/internal/docker"
 
 	"github.com/spf13/cobra"
 )
