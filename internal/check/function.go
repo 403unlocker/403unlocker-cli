@@ -1,7 +1,7 @@
 package check
 
 import (
-	"github.com/403unlocker/403Unlocker-cli/internal/common"
+	"github.com/403unlocker/403unlocker-cli/internal/common"
 	"fmt"
 	"net/http"
 	"net/url"

@@ -1,7 +1,7 @@
 package cli
 
 import (
-	"github.com/403unlocker/403Unlocker-cli/internal/check"
+	"github.com/403unlocker/403unlocker-cli/internal/check"
 
 	"github.com/spf13/cobra"
 )

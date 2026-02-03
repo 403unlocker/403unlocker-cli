@@ -13,7 +13,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/403unlocker/403Unlocker-cli/internal/common"
+	"github.com/403unlocker/403unlocker-cli/internal/common"
 
 	"github.com/distribution/reference"
 	"github.com/google/go-containerregistry/pkg/authn"

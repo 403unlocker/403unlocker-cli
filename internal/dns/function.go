@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/403unlocker/403Unlocker-cli/internal/common"
+	"github.com/403unlocker/403unlocker-cli/internal/common"
 
 	"github.com/cavaliergopher/grab/v3"
 )
