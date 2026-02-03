@@ -1,7 +1,6 @@
 package cli
 
 import (
-
 	"fmt"
 
 	"github.com/403unlocker/403unlocker-cli/internal/dns"
