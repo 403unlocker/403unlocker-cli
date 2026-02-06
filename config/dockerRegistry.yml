@@ -9,3 +9,7 @@ registryList:
   - "docker-mirror.kubarcloud.com"
   - "hub.hamdocker.ir"
   - "docker.mobinhost.com"
+  - "docker.kernel.ir"
+  - "mirrors.pardisco.co"
+  - "hub.atlantiscloud.ir"
+  - "docker.chabokan.net"
