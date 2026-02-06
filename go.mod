@@ -1,4 +1,4 @@
-module 403unlocker-cli
+module github.com/403unlocker/403unlocker-cli
 
 go 1.24.1
 

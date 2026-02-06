@@ -1,7 +1,6 @@
 package check
 
 import (
-	"403unlocker-cli/internal/common"
 	"fmt"
 	"net/http"
 	"net/url"
@@ -9,6 +8,8 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+
+	"github.com/403unlocker/403unlocker-cli/internal/common"
 )
 
 func CheckWithDNS(commandLintFirstArg string) error {
